@@ -7,4 +7,4 @@ python:
 
 install: pip install -U pytest
 
-script: pytest test_sample.py
+script: bash script_travis.sh
