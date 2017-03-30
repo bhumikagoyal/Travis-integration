@@ -8,7 +8,7 @@ python extract1.py
 
 while read -r line
 do
-	line
+	$line
 
 done < $filename
 
